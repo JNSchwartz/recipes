@@ -1,3 +1,3 @@
 # recipes
 
-/recipes/Honeycake
+[a relative link](recipes/other_file.md)
