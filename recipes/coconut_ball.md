@@ -30,7 +30,7 @@
 
 ## Images
 
-![Nutty Cocoa Rolled Oat Flour Balls with Coconut](../aipics/carrot_ball.png) "Nutty Cocoa Rolled Oat Flour Balls with Coconut")
+![Nutty Cocoa Rolled Oat Flour Balls with Coconut](/aipics/carrot_ball.png){:class="img-responsive"}
 
 ## Source
 
