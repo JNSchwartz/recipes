@@ -30,7 +30,7 @@
 
 ## Images
 
-![Nutty Cocoa Rolled Oat Flour Cookies with Coconut](https://example.com/link_to_image "Nutty Cocoa Rolled Oat Flour Cookies with Coconut")
+![Nutty Cocoa Rolled Oat Flour Balls with Coconut](../aipics/carrot_ball.png) "Nutty Cocoa Rolled Oat Flour Balls with Coconut")
 
 ## Source
 
@@ -38,5 +38,5 @@
 
 ## See Also
 
-- [Carrot Ball](./carrot-ball.md)
+- [Carrot Ball](./carrot_ball.md)
 - [Healthy Oatmeal Cookies](./HealthyOatmealCookies.md)
