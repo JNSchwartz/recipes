@@ -1,5 +1,9 @@
 # Nutty Cocoa Rolled Oat Flour Balls with Coconut
 
+## Images
+
+![Nutty Cocoa Rolled Oat Flour Balls with Coconut](./aipics/coconut_ball.png)
+
 ## Synonyms
 
 - Coconut Nut Cookies
@@ -27,10 +31,6 @@
 - You can experiment with different types of nut powders for a variety of flavors.
 - Rolled oats might need some time to thicken. Use your fridge for half an hour; don't add extra flour if it feels sticky.
 - These cookies are vegan-friendly!
-
-## Images
-
-![Nutty Cocoa Rolled Oat Flour Balls with Coconut](./aipics/coconut_ball.png)
 
 ## Source
 
