@@ -1,7 +1,5 @@
 # Nutty Cocoa Rolled Oat Flour Balls with Coconut
 
-## Images
-
 ![Nutty Cocoa Rolled Oat Flour Balls with Coconut](./aipics/coconut_ball.png)
 
 ## Synonyms

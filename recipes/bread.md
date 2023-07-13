@@ -1,7 +1,5 @@
 # Sourdough Bread with Whole Grains
 
-## Images
-
 ![Fluffy Sourdough Toast Bread with Whole Grains](./aipics/bread.png)
 
 ## Synonyms
