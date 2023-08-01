@@ -1,5 +1,7 @@
 # Recipe Name
 
+![Recipe Image](./aipics/recipe_name.png)
+
 ## Synonyms
 
 - Synonym 1
@@ -24,17 +26,12 @@
 - Note 2...
 - ...
 
-## Images
-
-![alt text](link_to_image "Image Title")
-
 ## Source
 
-[Recipe Source Name](URL_to_source)
+- To be added
 
 ## See Also
 
 - [Related Recipe 1](./RelatedRecipe1.md)
 - [Related Recipe 2](./RelatedRecipe2.md)
 - ...
-
