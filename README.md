@@ -1,4 +1,4 @@
-# Welcome to JNSchwartz's Recipes!
+# Rediscovered Nutrition
 
 A collection of my favorite and unique recipes, perfect for any food lover looking for culinary inspiration. Here, you'll find a range of dishes from across the world, ensuring both health and flavor.
 
