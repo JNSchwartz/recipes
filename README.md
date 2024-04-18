@@ -34,4 +34,4 @@ Contributions are always welcome! If you have a recipe which you think would be 
 
 These recipes are released under the [MIT License](LICENSE). Use, modify, and distribute them as you wish.
 
-**Gesundenhaitoo!**
+**Enjoy!** :tada:
