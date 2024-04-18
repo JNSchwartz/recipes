@@ -1,16 +1,10 @@
-# Sourdough Bread with Whole Grains
+# Sourdough Bread
 
-![Fluffy Sourdough Toast Bread with Whole Grains](./aipics/bread.png)
-
-## Synonyms
-
-- Whole Grain Sourdough Bread
-- Artisan Sourdough Bread
-- Healthy Sourdough Loaf
+![Sourdough Bread](./aipics/bread.png)
 
 ## Ingredients
 
-- Fresh sourdough starter (Madre)
+- [Sourdough](./Sourdough.md)
 - 520g flour (120g whole grain, 400g bread flour)
 - 400g water
 - 10g coarse salt
